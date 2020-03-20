@@ -1,0 +1,71 @@
+:root {
+  font-size: 16px;
+}
+
+* {
+  font-family: sans-serif;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  max-width: 80ch;
+  margin: 5rem auto 5rem;
+  font-size: 1rem;
+  background-color: ;
+}
+
+div#personal-stuff {
+  color: #ffffff;
+  background-color: #003030;
+  margin-top: 5rem;
+  padding: 1rem;
+  border-radius: 5%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: underline;
+}
+
+h1:first-of-type {
+  text-align: center;
+  margin: 20px;
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.7rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+  margin-top: 40px;
+  color: #003030;
+}
+
+p.date {
+  white-space: nowrap;
+}
+
+p.subline {
+  color: #008080;
+  font-weight: bold;
+  margin-top: 0px;
+}
+
+p.subline2 {
+  font-style: italic;
+}
+
+td {
+  padding: 0 20px 0 20px;
+  vertical-align: top;
+}
+
+a {
+  color: #c6e611;
+}
+
+a:hover {
+  color: #ff0000;
+}
