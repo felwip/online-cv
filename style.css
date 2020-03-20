@@ -11,12 +11,12 @@ body {
   max-width: 80ch;
   margin: 5rem auto 5rem;
   font-size: 1rem;
-  background-color: ;
+  background-color: #E8EAE9;
 }
 
 div#personal-stuff {
   color: #ffffff;
-  background-color: #003030;
+  background-color: #6E6D92;
   margin-top: 5rem;
   padding: 1rem;
   border-radius: 5%;
@@ -40,7 +40,7 @@ h2 {
 h3 {
   font-size: 1.5rem;
   margin-top: 40px;
-  color: #003030;
+  color: #1F2451;
 }
 
 p.date {
@@ -48,7 +48,7 @@ p.date {
 }
 
 p.subline {
-  color: #008080;
+  color: #1F2451;
   font-weight: bold;
   margin-top: 0px;
 }
@@ -63,7 +63,7 @@ td {
 }
 
 a {
-  color: #c6e611;
+  color: #BE9F4D;
 }
 
 a:hover {
