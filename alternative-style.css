@@ -4,16 +4,19 @@
 
 body {
   font-family: 'Roboto', sans-serif;
+  letter-spacing: 2px;
   max-width: 80ch;
   margin: 5rem auto 5rem;
   font-size: 1rem;
-  background-color: #FCF9F3;
+  background-color: #242840;
+  color: #9598AC;
 }
 
 h1, h2, h3, h4, h5, h6 {
+  letter-spacing: 1px;
   font-family: 'Montserrat', sans-serif;
   text-decoration: underline;
-  color: #1F2451;
+  color: #FCF9F3;
 }
 
 h1:first-of-type {
@@ -37,13 +40,12 @@ h4 {
 }
 
 .text-box {
-  color: #FCF9F3;
+  color: #9598AC;
   margin-top: 5rem;
   padding: 1rem;
   border: 1px solid black;
-  border-radius: 10%;
-  box-shadow: 20px 20px 10px grey;
-  background: linear-gradient(45deg, #4E77AE, #A0C0F6) ;
+  box-shadow: 20px 20px 20px grey;
+  background: linear-gradient(45deg, #17192A, #151B42) ;
 }  
 
 #contact-details {
@@ -72,4 +74,12 @@ a {
 
 a:hover {
   color: #ff0000;
+}
+
+.thumbnail {
+  float: none;
+  margin: 1rem auto;
+  width:45px;
+  height: 45px;
+  border: none;
 }

@@ -1,5 +1,6 @@
 # Online-CV
 https://confident-galileo-b98b24.netlify.com/
+https://felwip.github.io/online-cv/
 
 ## Idea
 As a practice I want to find a nice way to represent a Curriculum Vitae online. It can be extended and restructured for practice purposes. Also the updated version could be used within future applications.
