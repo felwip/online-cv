@@ -48,13 +48,6 @@ h4 {
   background: linear-gradient(45deg, #17192A, #151B42) ;
 }  
 
-#contact-details {
-  text-align: center;
-  margin: auto;
-  color: #1F2451;
-}  
-
-
 .date {
   white-space: nowrap;
 }  
@@ -76,7 +69,12 @@ a:hover {
   color: #ff0000;
 }
 
+a:visited {
+  color: #ff3333;
+}
+
 .thumbnail {
+  white-space: nowrap;
   float: none;
   margin: 1rem auto;
   width:45px;

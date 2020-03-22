@@ -73,3 +73,7 @@ a {
 a:hover {
   color: #ff0000;
 }
+
+a:visited {
+  color: #ff3333;
+}
